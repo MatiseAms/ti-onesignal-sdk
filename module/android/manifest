@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armeabi armeabi-v7a x86
+description: ti-onesignal-sdk
+author: Matise
+license: Specify your license
+copyright: Copyright (c) 2016 by 
+
+# these should not be edited
+name: ti-onesignal-sdk
+moduleid: nl.matise.onesignal
+guid: 2de7eb1a-533c-420d-b3f0-24c8327133db
+platform: android
+minsdk: 5.2.2.GA
